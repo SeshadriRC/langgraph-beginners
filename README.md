@@ -4,3 +4,4 @@
 4. [Lang-graph-router](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Router.ipynb)
 5. [Lang-graph-studio](https://github.com/SeshadriRC/langgraph-beginners/tree/main/studio)
 6. [Lang-graph-reAct](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_ReAct.ipynb)
+7. [External-DB](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Memory_External.ipynb)
