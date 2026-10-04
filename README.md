@@ -6,3 +6,4 @@
 6. [Lang-graph-reAct](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_ReAct.ipynb)
 7. [External-DB](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Memory_External.ipynb)
 8. [Web-Search](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Web_search.ipynb)
+9. [Tavily-LangGraph](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Tavily.ipynb)
