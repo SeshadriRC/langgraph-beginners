@@ -7,3 +7,6 @@
 7. [External-DB](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Memory_External.ipynb)
 8. [Web-Search](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Web_search.ipynb)
 9. [Tavily-LangGraph](https://github.com/SeshadriRC/langgraph-beginners/blob/main/colab-notebooks/LangGraph_Tavily.ipynb)
+
+## final project
+<img width="918" height="346" alt="image" src="https://github.com/user-attachments/assets/8781422e-2bdf-4e91-848d-74d40c226be2" />
